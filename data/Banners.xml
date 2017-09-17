@@ -429,4 +429,40 @@
         <Character prefix="Raindrops Girl" char="Rain" rarity="5"/>
         <Character prefix="Golden Knight" char="Alice" rarity="5"/>
     </Banner>
+
+    <Banner id="35">
+        <name>Japan Version Wind Elemental Scout</name>
+        <type>0</type>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Absolute Wind" char="Yuuki" rarity="4"/>
+        <Character prefix="Gale Dancer" char="Asuna" rarity="4"/>
+        <Character prefix="Cait Sith Cyclone" char="Silica" rarity="4"/>
+        <Character prefix="Stormbringer" char="Leafa" rarity="4"/>
+        <Character prefix="Priestress of the Winds" char="Lisbeth" rarity="4"/>
+    </Banner>
+
+    <Banner id="36">
+        <name>Japan Version 2016 Halloween Scout</name>
+        <type>0</type>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Trick or Treat" char="Yuuki" rarity="4"/>
+        <Character prefix="Gremlins at Midnight" char="Asuna" rarity="4"/>
+        <Character prefix="Young Witch of the Old Castle" char="Silica" rarity="4"/>
+        <Character prefix="Bloodbond" char="Kirito" rarity="4"/>
+        <Character prefix="Vampire Empress" char="Lisbeth" rarity="4"/>
+        <Character prefix="Gremlin Attack" char="Sinon" rarity="4"/>
+    </Banner>
+
+    <Banner id="37">
+        <name>Japan Version Earth Elemental Scout</name>
+        <type>0</type>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Blessing of Eden" char="Yuuki" rarity="4"/>
+        <Character prefix="Protector of Eden" char="Leafa" rarity="4"/>
+        <Character prefix="Beautiful Blossom" char="Silica" rarity="4"/>
+        <Character prefix="Harvest Priestress" char="Lisbeth" rarity="4"/>
+    </Banner>
 </banners>
