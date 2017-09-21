@@ -266,10 +266,6 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Golden Knight" char="Alice" rarity="4"/>
         <Character prefix="Blue Silver Knight" char="Eugeo" rarity="4"/>
-
-        <!--> WEAPON LIST <-->
-        <Weapon name="Fragrant Olive Sword" rarity="4"/>
-        <Weapon name="Blue Rose Sword" rarity="4"/>
     </Banner>
 
     <Banner id="14">
