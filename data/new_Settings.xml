@@ -116,4 +116,33 @@
         <BannerID id="21"/> <!-->Promised Night of the Stars<-->
         <BannerID id="22"/> <!-->Yukata Night<-->
     </GoldBanners>
+
+    <!-->
+    GOLD BANNERS v2
+        These are the banners included in record crystal v2 guaranteed scouts.
+        They are also the gold characters you can get from record crystal v2 banners with only platinum characters.
+    <-->
+    <GoldBannersv2>
+        <BannerID2 id="3"/> <!-->The Accelerating Reality<-->
+        <BannerID2 id="5"/> <!-->Hooray ★ Love Cheers<-->
+        <BannerID2 id="7"/> <!-->Alicization - The Knights' Encounter<-->
+        <BannerID2 id="8"/> <!-->Deadly Beautiful Kunoichi<-->
+        <BannerID2 id="9"/> <!-->Enduring Love in Another Space<-->
+        <BannerID2 id="10"/> <!-->Blooming School Life<-->
+        <BannerID2 id="11"/> <!-->Princess from the Virtual World<-->
+        <BannerID2 id="12"/> <!-->To Your Heart - Maid in Balmy Breeze<-->
+        <BannerID2 id="13"/> <!-->Alicization - Integration Beginning<-->
+        <BannerID2 id="14"/> <!-->Beautiful Girls Playing in the Water<-->
+        <BannerID2 id="15"/> <!-->Poetry of Constellation<-->
+        <BannerID2 id="16"/> <!-->Eternal Love - Dreaming Bride<-->
+        <BannerID2 id="17"/> <!-->Recalling Moments<-->
+        <BannerID2 id="18"/> <!-->Workers' Cosplay Paradise<-->
+        <BannerID2 id="19"/> <!-->Raindrops Concerto<-->
+        <BannerID2 id="20"/> <!-->Tropical Dream<-->
+        <BannerID2 id="21"/> <!-->Promised Night of the Stars<-->
+        <BannerID2 id="22"/> <!-->Yukata Night<-->
+        <BannerID2 id="24"/> <!-->Beaming Summer Gals<-->
+        <BannerID2 id="25"/> <!-->Summer Night Festa<-->
+        <BannerID2 id="26"/> <!-->In the Stormy Sea - Jolly Roger<-->
+    </GoldBannersv2>
 </settings>
