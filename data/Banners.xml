@@ -721,4 +721,20 @@
         <Weapon name="Nightmare Wand" rarity="4"/>
         <Weapon name="Pumpkin Blade" rarity="4"/>
     </Banner>
+
+    <Banner id="41">
+        <name>Birthday Scout - Silica 10.4</name>
+        <type>4</type>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Augmented Tamer" char="Silica" rarity="5"/>
+        <Character prefix="Shouting Cheers" char="Silica" rarity="4"/>
+        <Character prefix="Dragon Caster" char="Silica" rarity="4"/>
+        <Character prefix="Young Idol" char="Silica" rarity="4"/>
+        <Character prefix="My Little Lover" char="Silica" rarity="4"/>
+        <Character prefix="Blessed Breath" char="Silica" rarity="4"/>
+        <Character prefix="Attention Please" char="Silica" rarity="4"/>
+        <Character prefix="Starlight Prayer" char="Silica" rarity="4"/>
+        <Character prefix="Sunflower Girl" char="Silica" rarity="4"/>
+    </Banner>
 </banners>
