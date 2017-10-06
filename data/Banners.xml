@@ -737,4 +737,31 @@
         <Character prefix="Starlight Prayer" char="Silica" rarity="4"/>
         <Character prefix="Sunflower Girl" char="Silica" rarity="4"/>
     </Banner>
+
+    <Banner id="42">
+        <name>Alicization Goes on the Air</name>
+        <type>6</type>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Fragrant Olive Integrity Knight" char="Alice" rarity="5"/>
+        <Character prefix="Blue Rose Integrity Knight" char="Eugeo" rarity="5"/>
+        <Character prefix="Born Genius" char="Eugeo" rarity="4"/>
+        <Character prefix="Integrity Knight" char="Alice" rarity="4"/>
+        <Character prefix="Blue Silver Knight" char="Eugeo" rarity="4"/>
+        <Character prefix="Golden Knight" char="Alice" rarity="4"/>
+        <Character prefix="Surfer" char="Eugeo" rarity="4"/>
+        <Character prefix="Summer Princess" char="Alice" rarity="4"/>
+        <Character prefix="Fragrant Olive in June" char="Alice" rarity="4"/>
+    </Banner>
+
+    <Banner id="43">
+        <name>Birthday Scout - Kirito 10.7</name>
+        <type>4</type>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Tropical Beach Boy" char="Kirito" rarity="5"/>
+        <Character prefix="Hero's Return" char="Kirito" rarity="4"/>
+        <Character prefix="Regurent Sword" char="Kirito" rarity="4"/>
+        <Character prefix="Lofty Captain" char="Kirito" rarity="4"/>
+    </Banner>
 </banners>
