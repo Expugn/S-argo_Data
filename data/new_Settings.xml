@@ -14,6 +14,7 @@
         DeleteUserMessage: If true, the bot deletes the message that the player used to call it.
         DisableImages: If true, users cannot create images by adding an "i" after their scout type.
         NoGUI: If true, start the bot without a GUI.
+        MaxShopLimit: The max amount of bundles a user can buy at a time with 'shop'
     <-->
     <BotSettings>
         <Token>YOUR_BOT_TOKEN_HERE</Token>
@@ -23,6 +24,7 @@
         <DeleteUserMessage>false</DeleteUserMessage>
         <DisableImages>false</DisableImages>
         <NoGUI>false</NoGUI>
+        <MaxShopLimit>10</MaxShopLimit>
     </BotSettings>
 
 	<!-->
@@ -42,6 +44,12 @@
 		locations similar to how it is formatted in the official repository.
 	<-->
     <GitHubDataRepository>https://raw.githubusercontent.com/Expugn/S-argo_Data/master/</GitHubDataRepository>
+
+    <!-->
+    SECRET WORD
+        Inputting a valid secret word will unlock a secret. :eyes:
+    <-->
+    <SecretWord></SecretWord>
 
     <!--> 
 	GACHAPON RATES 
