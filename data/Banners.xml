@@ -770,15 +770,15 @@
         <type>5</type>
 
         <!--> CHARACTER LIST <-->
-        <Character prefix="Spider Witch" char="Sinon" rarity="5"/>
-        <Character prefix="Witchy Kitty" char="Silica" rarity="5"/>
         <Character prefix="Vampire in Love" char="Yuuki" rarity="5"/>
         <Character prefix="Sweet Monster" char="Leafa" rarity="5"/>
+        <Character prefix="Spider Witch" char="Sinon" rarity="5"/>
+        <Character prefix="Witchy Kitty" char="Silica" rarity="5"/>
 
         <!--> WEAPON LIST <-->
-        <Weapon name="Trick or Bullet" rarity="4"/>
-        <Weapon name="Chat Noir" rarity="4"/>
         <Weapon name="Devil Stuff" rarity="4"/>
         <Weapon name="Machinery Sword" rarity="4"/>
+        <Weapon name="Trick or Bullet" rarity="4"/>
+        <Weapon name="Chat Noir" rarity="4"/>
     </Banner>
 </banners>
