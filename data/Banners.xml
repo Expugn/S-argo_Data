@@ -572,6 +572,7 @@
         <Character prefix="Black Wing" char="Kirito" rarity="4"/>
         <Character prefix="Intrepid Detective" char="Eugeo" rarity="5"/>
         <Character prefix="365 Days" char="Kirito" rarity="5"/>
+        <Character prefix="Rejoicing Witch" char="Leafa" rarity="4"/>
     </Banner>
 
     <Banner id="32">
@@ -604,17 +605,6 @@
     </Banner>
 
     <Banner id="34">
-        <name>5 Star Upgrade Vote Scout</name>
-        <type>3</type>
-
-        <!--> CHARACTER LIST <-->
-        <Character prefix="Hero's Return" char="Kirito" rarity="5"/>
-        <Character prefix="Heart of Confront" char="Asuna" rarity="5"/>
-        <Character prefix="Raindrops Girl" char="Rain" rarity="5"/>
-        <Character prefix="Golden Knight" char="Alice" rarity="5"/>
-    </Banner>
-
-    <Banner id="35">
         <name>Japan Version Wind Elemental Scout</name>
         <type>0</type>
 
@@ -633,7 +623,7 @@
         <Weapon name="Hurricane Breaker" rarity="4"/>
     </Banner>
 
-    <Banner id="36">
+    <Banner id="35">
         <name>Japan Version 2016 Halloween Scout</name>
         <type>0</type>
 
@@ -654,7 +644,7 @@
         <Weapon name="Devil's Spread" rarity="4"/>
     </Banner>
 
-    <Banner id="37">
+    <Banner id="36">
         <name>Japan Version Earth Elemental Scout</name>
         <type>0</type>
 
@@ -671,7 +661,7 @@
         <Weapon name="Harvest" rarity="4"/>
     </Banner>
 
-    <Banner id="38">
+    <Banner id="37">
         <name>Chivalric Men's Uproarious Banquet</name>
         <type>3</type>
 
@@ -684,7 +674,7 @@
         <Weapon name="Great Number" rarity="4"/>
     </Banner>
 
-    <Banner id="39">
+    <Banner id="38">
         <name>Birthday Scout - Asuna 9.30</name>
         <type>4</type>
 
@@ -705,7 +695,7 @@
         <Character prefix="Gorgeous Quartermaster" char="Asuna" rarity="4"/>
     </Banner>
 
-    <Banner id="40">
+    <Banner id="39">
         <name>Moonlight Halloween Parade</name>
         <type>5</type>
 
@@ -722,7 +712,7 @@
         <Weapon name="Pumpkin Blade" rarity="4"/>
     </Banner>
 
-    <Banner id="41">
+    <Banner id="40">
         <name>Birthday Scout - Silica 10.4</name>
         <type>4</type>
 
@@ -738,7 +728,7 @@
         <Character prefix="Sunflower Girl" char="Silica" rarity="4"/>
     </Banner>
 
-    <Banner id="42">
+    <Banner id="41">
         <name>Alicization Goes on the Air</name>
         <type>6</type>
 
@@ -754,7 +744,7 @@
         <Character prefix="Fragrant Olive in June" char="Alice" rarity="4"/>
     </Banner>
 
-    <Banner id="43">
+    <Banner id="42">
         <name>Birthday Scout - Kirito 10.7</name>
         <type>4</type>
 
@@ -765,7 +755,7 @@
         <Character prefix="Lofty Captain" char="Kirito" rarity="4"/>
     </Banner>
 
-    <Banner id="44">
+    <Banner id="43">
         <name>Happy Halloween Night</name>
         <type>5</type>
 
@@ -780,5 +770,22 @@
         <Weapon name="Machinery Sword" rarity="4"/>
         <Weapon name="Trick or Bullet" rarity="4"/>
         <Weapon name="Chat Noir" rarity="4"/>
+    </Banner>
+
+    <Banner id="44">
+        <name>5 Star Upgrade Vote Scout</name>
+        <type>7</type>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Hero's Return" char="Kirito" rarity="5"/>
+        <Character prefix="Heart of Confront" char="Asuna" rarity="5"/>
+        <Character prefix="Golden Knight" char="Alice" rarity="5"/>
+        <Character prefix="Raindrops Girl" char="Rain" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Heroic Promise +1" rarity="4"/>
+        <Weapon name="Courage +1" rarity="4"/>
+        <Weapon name="Fragrant Olive Sword +1" rarity="4"/>
+        <Weapon name="Dual Hydrangea Sword +1" rarity="4"/>
     </Banner>
 </banners>
