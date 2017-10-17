@@ -788,4 +788,21 @@
         <Weapon name="Fragrant Olive Sword +1" rarity="4"/>
         <Weapon name="Dual Hydrangea Sword +1" rarity="4"/>
     </Banner>
+
+    <Banner id="45">
+        <name>Baton of Friendship! - Sports Festival</name>
+        <type>5</type>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Reach the Finish Line" char="Asuna" rarity="5"/>
+        <Character prefix="Go for the Top" char="Yui" rarity="5"/>
+        <Character prefix="Flush of Youth" char="Leafa" rarity="5"/>
+        <Character prefix="Never Give Up" char="Lisbeth" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Victory Fleuret" rarity="4"/>
+        <Weapon name="Champion Dagger" rarity="4"/>
+        <Weapon name="Glorious Blade" rarity="4"/>
+        <Weapon name="Winner's Spear" rarity="4"/>
+    </Banner>
 </banners>
