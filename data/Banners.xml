@@ -22,6 +22,8 @@
         3) Step Up v2 (Increased platinum character scout rate per step, repeats at 6)
         4) Birthday Step Up (125 MD scout on step 1, 2.0x rates for gold and platinum on step 3, resets at 3)
         5) Record Crystal v2 (Same as Record Crystal, but 125 MD for the first scout.)
+        6) Memorial Scout (Static scout rates, single pulls only.)
+        7) Step Up v3 (125 MD scout on step 1, 2.0x rates for platinum on step 3, resets at 3)
 
         Type the desired number between the <type></type> area in a banner.
     <-->
@@ -805,5 +807,14 @@
         <Weapon name="Champion Dagger" rarity="4"/>
         <Weapon name="Glorious Blade" rarity="4"/>
         <Weapon name="Winner's Spear" rarity="4"/>
+    </Banner>
+
+    <Banner id="46">
+        <name>Wedding Anniversary - Kirito and Asuna</name>
+        <type>7</type>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Promise at that Time_" char="Kirito" rarity="5"/>
+        <Character prefix="Promise at that Time" char="Asuna" rarity="5"/>
     </Banner>
 </banners>
