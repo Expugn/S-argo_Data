@@ -16,6 +16,7 @@
     BANNER TYPES
         As of this writing, The following banner types are available:
 
+        <type>
         0) Normal (Static scout rates, nothing special)
         1) Step Up (Increased gold character scout rate per step, resets at 5)
         2) Record Crystal (Get record crystals every multi scout to use in a guaranteed scout)
@@ -25,12 +26,17 @@
         6) Memorial Scout (Static scout rates, single pulls only.)
         7) Step Up v3 (125 MD scout on step 1, 2.0x rates for platinum on step 3, resets at 3)
 
+        <wepType>
+        0) Normal (Static scout rates, nothing special)
+        1) Step Up (100 MD scout on step 1, 2.0x rates for gold weapon on step 3)
+
         Type the desired number between the <type></type> area in a banner.
     <-->
 
     <Banner id = "1">
         <name>Start Dash</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Black Swordsman" char="Kirito" rarity="4"/>
@@ -66,6 +72,7 @@
     <Banner id="2">
         <name>Alfheim Online Reborn</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Skill Connect" char="Kirito" rarity="4"/>
@@ -85,6 +92,7 @@
     <Banner id="3">
         <name>The Accelerating Reality</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Hero's Return" char="Kirito" rarity="4"/>
@@ -104,6 +112,7 @@
     <Banner id="4">
         <name>Medal Scout - Sword Dance</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Concealed Dual Blades" char="Kirito" rarity="4"/>
@@ -121,6 +130,7 @@
     <Banner id="5">
         <name>Hooray ★ Love Cheers</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Angel Cheer" char="Yui" rarity="4"/>
@@ -140,6 +150,7 @@
     <Banner id="6">
         <name>Spring Breeze Hina-Matsuri</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Early Spring Dance" char="Argo" rarity="4"/>
@@ -155,6 +166,7 @@
     <Banner id="7">
         <name>Alicization - The Knights' Encounter</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Integrity Knight" char="Alice" rarity="4"/>
@@ -168,6 +180,7 @@
     <Banner id="8">
         <name>Deadly Beautiful Kunoichi</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Shinobi Slash" char="Asuna" rarity="4"/>
@@ -187,6 +200,7 @@
     <Banner id="9">
         <name>Enduring Love in Another Space</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Hit Idol of Love and Effort" char="Asuna" rarity="4"/>
@@ -208,6 +222,7 @@
     <Banner id="10">
         <name>Blooming School Life</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Sakura Romance" char="Strea" rarity="4"/>
@@ -224,6 +239,7 @@
     <Banner id="11">
         <name>Princess from the Virtual World</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Lightning Dance" char="Asuna" rarity="4"/>
@@ -245,6 +261,7 @@
     <Banner id="12">
         <name>To Your Heart - Maid in Balmy Breeze</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Parlor Maid" char="Rain" rarity="4"/>
@@ -266,6 +283,7 @@
     <Banner id="13">
         <name>Alicization - Integration Beginning</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Golden Knight" char="Alice" rarity="4"/>
@@ -275,6 +293,7 @@
     <Banner id="14">
         <name>Beautiful Girls Playing in the Water</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Smile on Waterfront" char="Lisbeth" rarity="4"/>
@@ -290,6 +309,7 @@
     <Banner id="15">
         <name>Poetry of Constellation</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Libra" char="Asuna" rarity="4"/>
@@ -307,6 +327,7 @@
     <Banner id="16">
         <name>Eternal Love - Dreaming Brides</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Fragrant Olive in June" char="Alice" rarity="4"/>
@@ -327,6 +348,7 @@
     <Banner id="17">
         <name>Recalling Moments</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Heart Flash" char="Asuna" rarity="4"/>
@@ -337,6 +359,7 @@
     <Banner id="18">
         <name>Workers' Cosplay Paradise</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Time of Injection" char="Asuna" rarity="4"/>
@@ -358,6 +381,7 @@
     <Banner id="19">
         <name>Raindrops Concerto</name>
         <type>1</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Raindrops Girl" char="Rain" rarity="4"/>
@@ -373,6 +397,7 @@
     <Banner id="20">
         <name>Tropical Dream</name>
         <type>1</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Summer Princess" char="Alice" rarity="4"/>
@@ -392,6 +417,7 @@
     <Banner id="21">
         <name>Promised Night of the Stars</name>
         <type>1</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Celestial Dancer" char="Yuuki" rarity="4"/>
@@ -407,6 +433,7 @@
     <Banner id="22">
         <name>Yukata Night</name>
         <type>2</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Illuminating Weeping Willow" char="Asuna" rarity="4"/>
@@ -426,6 +453,7 @@
     <Banner id="23">
         <name>Char. Enhancement Vote Scout</name>
         <type>1</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Shinobi Slash" char="Asuna" rarity="4"/>
@@ -445,6 +473,7 @@
     <Banner id="24">
         <name>Beaming Summer Gals</name>
         <type>2</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Healing Beauty" char="Asuna" rarity="4"/>
@@ -464,6 +493,7 @@
     <Banner id="25">
         <name>Summer Night Festa</name>
         <type>1</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Good Street Vendor" char="Lisbeth" rarity="4"/>
@@ -479,6 +509,7 @@
     <Banner id="26">
         <name>In the Stormy Sea - Jolly Roger</name>
         <type>2</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Gorgeous Quartermaster" char="Asuna" rarity="4"/>
@@ -498,6 +529,7 @@
     <Banner id="27">
         <name>1st Anniversary Countdown Vote Scout</name>
         <type>1</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Hero's Return" char="Kirito" rarity="4"/>
@@ -517,6 +549,7 @@
     <Banner id="28">
         <name>Birthday Scout - Sinon 8.21</name>
         <type>1</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Dangerous Kiss" char="Sinon" rarity="4"/>
@@ -531,6 +564,7 @@
     <Banner id="29">
         <name>Proof of Trust X Bonds of Fate</name>
         <type>3</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="The Will - Transcending the System" char="Kirito" rarity="5"/>
@@ -548,6 +582,7 @@
     <Banner id="30">
         <name>Alicization - The World Spins With Swords</name>
         <type>3</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Fragrant Olive Integrity Knight" char="Alice" rarity="5"/>
@@ -561,6 +596,7 @@
     <Banner id="31">
         <name>Event Limited - Free Characters</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Nightwear" char="Asuna" rarity="4"/>
@@ -581,6 +617,7 @@
     <Banner id="32">
         <name>Ranking Rewards</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Up-and-coming Tiny Idol" char="Yui" rarity="4"/>
@@ -588,11 +625,13 @@
         <Character prefix="True Heart" char="Yui" rarity="4"/>
         <Character prefix="Holy Sword" char="Heathcliff" rarity="4"/>
         <Character prefix="Wacky Happy Halloween" char="Lisbeth" rarity="4"/>
+        <Character prefix="Abounding Spring Water" char="Strea" rarity="4"/>
     </Banner>
 
     <Banner id="33">
         <name>Memory of Friendship and Passing of Time</name>
         <type>3</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Heartful Water fairy" char="Asuna" rarity="5"/>
@@ -610,6 +649,7 @@
     <Banner id="34">
         <name>Japan Version Wind Elemental Scout</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Absolute Wind" char="Yuuki" rarity="4"/>
@@ -629,6 +669,7 @@
     <Banner id="35">
         <name>Japan Version 2016 Halloween Scout</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Trick or Treat" char="Yuuki" rarity="4"/>
@@ -650,6 +691,7 @@
     <Banner id="36">
         <name>Japan Version Earth Elemental Scout</name>
         <type>0</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Blessing of Eden" char="Yuuki" rarity="4"/>
@@ -667,6 +709,7 @@
     <Banner id="37">
         <name>Chivalric Men's Uproarious Banquet</name>
         <type>3</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Strong Mind" char="Klein" rarity="5"/>
@@ -680,6 +723,7 @@
     <Banner id="38">
         <name>Birthday Scout - Asuna 9.30</name>
         <type>4</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Lightning Dance" char="Asuna" rarity="5"/>
@@ -701,6 +745,7 @@
     <Banner id="39">
         <name>Moonlight Halloween Parade</name>
         <type>5</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Offer Lifeblood" char="Kirito" rarity="5"/>
@@ -718,6 +763,7 @@
     <Banner id="40">
         <name>Birthday Scout - Silica 10.4</name>
         <type>4</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Augmented Tamer" char="Silica" rarity="5"/>
@@ -734,6 +780,7 @@
     <Banner id="41">
         <name>Alicization Goes on the Air</name>
         <type>6</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Fragrant Olive Integrity Knight" char="Alice" rarity="5"/>
@@ -750,6 +797,7 @@
     <Banner id="42">
         <name>Birthday Scout - Kirito 10.7</name>
         <type>4</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Tropical Beach Boy" char="Kirito" rarity="5"/>
@@ -761,6 +809,7 @@
     <Banner id="43">
         <name>Happy Halloween Night</name>
         <type>5</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Vampire in Love" char="Yuuki" rarity="5"/>
@@ -778,6 +827,7 @@
     <Banner id="44">
         <name>5 Star Upgrade Vote Scout</name>
         <type>7</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Hero's Return" char="Kirito" rarity="5"/>
@@ -795,6 +845,7 @@
     <Banner id="45">
         <name>Baton of Friendship! - Sports Festival</name>
         <type>5</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Reach the Finish Line" char="Asuna" rarity="5"/>
@@ -812,9 +863,28 @@
     <Banner id="46">
         <name>Wedding Anniversary - Kirito and Asuna</name>
         <type>7</type>
+        <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
         <Character prefix="Promise at that Time_" char="Kirito" rarity="5"/>
         <Character prefix="Promise at that Time" char="Asuna" rarity="5"/>
+    </Banner>
+
+    <Banner id="47">
+        <name>Steamy Beauty Bath Time</name>
+        <type>5</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="The Glossy Goddess" char="Asuna" rarity="5"/>
+        <Character prefix="Looking Back Beauty" char="Sinon" rarity="5"/>
+        <Character prefix="Beauty in Secluded Hot Springs" char="Leafa" rarity="5"/>
+        <Character prefix="Autumn Leaf Bath Beauty" char="Silica" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Holy Flower Rapier" rarity="4"/>
+        <Weapon name="Sanctified Beauteous Spear" rarity="4"/>
+        <Weapon name="Red Lacquer Sword" rarity="4"/>
+        <Weapon name="Teal Blue Sword" rarity="4"/>
     </Banner>
 </banners>
