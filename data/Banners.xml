@@ -41,10 +41,10 @@
         <!--> CHARACTER LIST <-->
         <Character prefix="Black Swordsman" char="Kirito" rarity="4"/>
         <Character prefix="Lightning Flash" char="Asuna" rarity="4"/>
-        <Character prefix="Brawny Axeman" char="Agil" rarity="4"/>
-        <Character prefix="Furinkazan" char="Klein" rarity="4"/>
         <Character prefix="Dragon Tamer" char="Silica" rarity="4"/>
         <Character prefix="Mace Master" char="Lisbeth" rarity="4"/>
+        <Character prefix="Furinkazan" char="Klein" rarity="4"/>
+        <Character prefix="Brawny Axeman" char="Agil" rarity="4"/>
         <Character prefix="Storm Mage" char="Leafa" rarity="4"/>
         <Character prefix="Goddess of Death" char="Sinon" rarity="4"/>
         <Character prefix="Zekken" char="Yuuki" rarity="4"/>
@@ -56,10 +56,10 @@
         <!--> WEAPON LIST <-->
         <Weapon name="Elucidator x Dark Repulser" rarity="4"/>
         <Weapon name="Lambent Light" rarity="4"/>
-        <Weapon name="Atom Smasher" rarity="4"/>
-        <Weapon name="Classic Bound Tachi" rarity="4"/>
         <Weapon name="Ebony Dagger" rarity="4"/>
         <Weapon name="Star Mace" rarity="4"/>
+        <Weapon name="Classic Bound Tachi" rarity="4"/>
+        <Weapon name="Atom Smasher" rarity="4"/>
         <Weapon name="Tempest Sabre" rarity="4"/>
         <Weapon name="Hectate II" rarity="4"/>
         <Weapon name="Obsidian Sword" rarity="4"/>
@@ -78,18 +78,246 @@
         <Character prefix="Skill Connect" char="Kirito" rarity="4"/>
         <Character prefix="Undine Healer" char="Asuna" rarity="4"/>
         <Character prefix="Fairy Dragon Tamer" char="Silica" rarity="4"/>
-        <Character prefix="Cool-Headed Sniper" char="Sinon" rarity="4"/>
         <Character prefix="Fairy Blacksmith" char="Lisbeth" rarity="4"/>
+        <Character prefix="Cool-Headed Sniper" char="Sinon" rarity="4"/>
 
         <!--> WEAPON LIST <-->
         <Weapon name="Unity Walks x Divination" rarity="4"/>
         <Weapon name="Yggdrasil Bough" rarity="4"/>
         <Weapon name="Giardino" rarity="4"/>
-        <Weapon name="L'arc Qui ne Faut" rarity="4"/>
         <Weapon name="Gridavol" rarity="4"/>
+        <Weapon name="L'arc Qui ne Faut" rarity="4"/>
     </Banner>
 
     <Banner id="3">
+        <name>Event Limited - Free Characters</name>
+        <type>0</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Nightwear" char="Asuna" rarity="4"/>
+        <Character prefix="Fairy Dance" char="Kirito" rarity="4"/>
+        <Character prefix="Captive Princess" char="Asuna" rarity="4"/>
+        <Character prefix="Rejoicing Witch" char="Leafa" rarity="4"/>
+        <Character prefix="The Fisherman" char="Sima" rarity="4"/>
+        <Character prefix="Pure-Hearted Warrior of Flora" char="Sinon" rarity="4"/>
+        <Character prefix="Happy Memories" char="Sachi" rarity="4"/>
+        <Character prefix="Bringer of Spring" char="Lisbeth" rarity="4"/>
+        <Character prefix="Made with Love" char="Asuna" rarity="4"/>
+        <Character prefix="AR Idol" char="Yuna" rarity="4"/>
+        <Character prefix="Queen of Chef" char="Rechka" rarity="4"/>
+        <Character prefix="Foxy Priestress" char="Silica" rarity="4"/>
+        <Character prefix="Hide-and-seek Girl" char="Sphica" rarity="4"/>
+        <Character prefix="Genius Creator" char="Yuuki" rarity="4"/>
+        <Character prefix="Black Wing" char="Kirito" rarity="4"/>
+        <Character prefix="Intrepid Detective" char="Eugeo" rarity="5"/>
+        <Character prefix="365 Days" char="Kirito" rarity="5"/>
+        <Character prefix="Lone Wolf in the Wild" char="Kirito" rarity="5"/>
+    </Banner>
+
+    <Banner id="4">
+        <name>Japan Version Wind Elemental Scout</name>
+        <type>0</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Gale Dancer" char="Asuna" rarity="4"/>
+        <Character prefix="Cait Sith Cyclone" char="Silica" rarity="4"/>
+        <Character prefix="Priestress of the Winds" char="Lisbeth" rarity="4"/>
+        <Character prefix="Stormbringer" char="Leafa" rarity="4"/>
+        <Character prefix="Absolute Wind" char="Yuuki" rarity="4"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Ventus Cyclone Sword" rarity="4"/>
+        <Weapon name="Butterfly Wing" rarity="4"/>
+        <Weapon name="Hurricane Breaker" rarity="4"/>
+        <Weapon name="Wind of Grace" rarity="4"/>
+        <Weapon name="Storm Slicer" rarity="4"/>
+    </Banner>
+
+    <Banner id="5">
+        <name>Japan Version 2016 Halloween Scout</name>
+        <type>0</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Bloodbond" char="Kirito" rarity="4"/>
+        <Character prefix="Gremlins at Midnight" char="Asuna" rarity="4"/>
+        <Character prefix="Young Witch of the Old Castle" char="Silica" rarity="4"/>
+        <Character prefix="Vampire Empress" char="Lisbeth" rarity="4"/>
+        <Character prefix="Gremlin Attack" char="Sinon" rarity="4"/>
+        <Character prefix="Trick or Treat" char="Yuuki" rarity="4"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Solar Repulsor x Devil Silencer" rarity="4"/>
+        <Weapon name="Pumpkin Hammer" rarity="4"/>
+        <Weapon name="Black Cat" rarity="4"/>
+        <Weapon name="Devil's Slave" rarity="4"/>
+        <Weapon name="Devil's Spread" rarity="4"/>
+        <Weapon name="Treat Hunter" rarity="4"/>
+    </Banner>
+
+    <Banner id="6">
+        <name>Japan Version Earth Elemental Scout</name>
+        <type>0</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Beautiful Blossom" char="Silica" rarity="4"/>
+        <Character prefix="Harvest Priestress" char="Lisbeth" rarity="4"/>
+        <Character prefix="Protector of Eden" char="Leafa" rarity="4"/>
+        <Character prefix="Blessing of Eden" char="Yuuki" rarity="4"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Gaia Knife" rarity="4"/>
+        <Weapon name="Harvest" rarity="4"/>
+        <Weapon name="Eden's Stave" rarity="4"/>
+        <Weapon name="Eden's Edge" rarity="4"/>
+    </Banner>
+
+    <Banner id="7">
+        <name>Japan Version Fire Elemental Scout</name>
+        <type>0</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Mage of the Gods" char="Asuna" rarity="4"/>
+        <Character prefix="Swordsman of the Gods" char="Klein" rarity="4"/>
+        <Character prefix="Gunner of the Gods" char="Sinon" rarity="4"/>
+        <Character prefix="Knight of the Gods" char="Strea" rarity="4"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Conflagration" rarity="4"/>
+        <Weapon name="Supernova Friction" rarity="4"/>
+        <Weapon name="Explosive Hecate" rarity="4"/>
+        <Weapon name="Ignitia" rarity="4"/>
+    </Banner>
+
+    <Banner id="8">
+        <name>Japan Version Camisole Scout</name>
+        <type>0</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Nightwear" char="Leafa" rarity="4"/>
+        <Character prefix="Nightwear (2)" char="Yuuki" rarity="4"/>
+        <Character prefix="Nightwear (3)" char="Silica" rarity="4"/>
+        <Character prefix="Nightwear (4)" char="Lisbeth" rarity="4"/>
+        <Character prefix="Nightwear (5)" char="Sinon" rarity="4"/>
+    </Banner>
+
+    <Banner id="9">
+        <name>Japan Version 2016 Christmas Scout</name>
+        <type>0</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Fantastic Gift" char="Kirito" rarity="4"/>
+        <Character prefix="Silent Night's Light" char="Asuna" rarity="4"/>
+        <Character prefix="Merry Dragon Tamer" char="Silica" rarity="4"/>
+        <Character prefix="Christmas Artisan" char="Lisbeth" rarity="4"/>
+        <Character prefix="Love Raconteur" char="Leafa" rarity="4"/>
+        <Character prefix="Silent Night Goddess" char="Sinon" rarity="4"/>
+        <Character prefix="Celestial Swordfighter" char="Yuuki" rarity="4"/>
+        <Character prefix="Silent Night Hunter" char="Philia" rarity="4"/>
+        <Character prefix="Yuletide Swordswoman" char="Strea" rarity="4"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Holy Caliber x Jingle Blade" rarity="4"/>
+        <Weapon name="Treasured Rapier" rarity="4"/>
+        <Weapon name="Reindeer Dagger" rarity="4"/>
+        <Weapon name="Jingle All the Way" rarity="4"/>
+        <Weapon name="Radiant Tree" rarity="4"/>
+        <Weapon name="Holy Night's Shot" rarity="4"/>
+        <Weapon name="Ringing Blade" rarity="4"/>
+        <Weapon name="Holy Dagger" rarity="4"/>
+        <Weapon name="Freudeschwert" rarity="4"/>
+    </Banner>
+
+    <Banner id="10">
+        <name>Japan Version 2017 New Year Scout</name>
+        <type>0</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Dreams in Crimson" char="Asuna" rarity="4"/>
+        <Character prefix="Pure Splendor" char="Silica" rarity="4"/>
+        <Character prefix="Beautiful Battledore Player" char="Leafa" rarity="4"/>
+        <Character prefix="Springtime Sniper" char="Sinon" rarity="4"/>
+        <Character prefix="Festive Dancer" char="Yuuki" rarity="4"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Sunlight Rapier" rarity="4"/>
+        <Weapon name="Blessed Pine" rarity="4"/>
+        <Weapon name="Exorcist's Hairpin" rarity="4"/>
+        <Weapon name="Demonbane Greatbow" rarity="4"/>
+        <Weapon name="Amenohohi" rarity="4"/>
+    </Banner>
+
+    <Banner id="11">
+        <name>Japan Version Water Elemental Scout</name>
+        <type>0</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Elegant Water Warrior" char="Asuna" rarity="4"/>
+        <Character prefix="Tomboy Queen" char="Yuuki" rarity="4"/>
+        <Character prefix="Rushing Torrent" char="Rain" rarity="4"/>
+        <Character prefix="Symphony of the Sea" char="Seven" rarity="4"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Aquarius Edge" rarity="4"/>
+        <Weapon name="Sea God's Mallet" rarity="4"/>
+        <Weapon name="Mercury Edge" rarity="4"/>
+        <Weapon name="Marine Baton" rarity="4"/>
+    </Banner>
+
+    <Banner id="12">
+        <name>Japan Version Hollow Realization Scout</name>
+        <type>0</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="True Black" char="Kirito" rarity="4"/>
+        <Character prefix="White Flash" char="Asuna" rarity="4"/>
+        <Character prefix="Bond Sword" char="Leafa" rarity="4"/>
+        <Character prefix="Budding Emotions" char="Premiere" rarity="4"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Elder Sword x Seeker Sword" rarity="4"/>
+        <Weapon name="Hexagramme" rarity="4"/>
+        <Weapon name="Tyrfing" rarity="4"/>
+        <Weapon name="Rusty Nail" rarity="4"/>
+    </Banner>
+
+    <Banner id="13">
+        <name>Japan Version 2017 Valentine's Day Scout</name>
+        <type>0</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Enchanting Love" char="Asuna" rarity="4"/>
+        <Character prefix="Platonic Love" char="Silica" rarity="4"/>
+        <Character prefix="Unfulfilled Wish" char="Leafa" rarity="4"/>
+        <Character prefix="Choleric Sniper" char="Sinon" rarity="4"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Brilliant Fleuret" rarity="4"/>
+        <Weapon name="Love Cake Knife" rarity="4"/>
+        <Weapon name="Chocolate Grater" rarity="4"/>
+        <Weapon name="Cupid's Passion" rarity="4"/>
+    </Banner>
+
+    <Banner id="14">
+        <name>Japan Version 2017 Setsubun Scout</name>
+        <type>0</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Demon Leader" char="Sinon" rarity="4"/>
+    </Banner>
+
+    <Banner id="15">
         <name>The Accelerating Reality</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -109,7 +337,7 @@
         <Weapon name="Advancer" rarity="4"/>
     </Banner>
 
-    <Banner id="4">
+    <Banner id="16">
         <name>Medal Scout - Sword Dance</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -127,7 +355,7 @@
         <Character prefix="Bravery Lance" char="Sachi" rarity="4"/>
     </Banner>
 
-    <Banner id="5">
+    <Banner id="17">
         <name>Hooray ★ Love Cheers</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -147,7 +375,7 @@
         <Weapon name="Yellow Mangoesh" rarity="4"/>
     </Banner>
 
-    <Banner id="6">
+    <Banner id="18">
         <name>Spring Breeze Hina-Matsuri</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -163,7 +391,7 @@
         <Weapon name="Blade of Blight Festival" rarity="4"/>
     </Banner>
 
-    <Banner id="7">
+    <Banner id="19">
         <name>Alicization - The Knights' Encounter</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -177,7 +405,7 @@
         <Weapon name="Blue Rose Sword" rarity="4"/>
     </Banner>
 
-    <Banner id="8">
+    <Banner id="20">
         <name>Deadly Beautiful Kunoichi</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -197,7 +425,7 @@
         <Weapon name="Ephemeral Edge" rarity="4"/>
     </Banner>
 
-    <Banner id="9">
+    <Banner id="21">
         <name>Enduring Love in Another Space</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -219,7 +447,21 @@
         <Weapon name="Espanda of Sword Dance" rarity="4"/>
     </Banner>
 
-    <Banner id="10">
+    <Banner id="22">
+        <name>Ranking Rewards</name>
+        <type>0</type>
+        <wepType>0</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Up-and-coming Tiny Idol" char="Yui" rarity="4"/>
+        <Character prefix="Tropical dB" char="Yuna" rarity="4"/>
+        <Character prefix="True Heart" char="Yui" rarity="4"/>
+        <Character prefix="Holy Sword" char="Heathcliff" rarity="4"/>
+        <Character prefix="Wacky Happy Halloween" char="Lisbeth" rarity="4"/>
+        <Character prefix="Abounding Spring Water" char="Strea" rarity="4"/>
+    </Banner>
+
+    <Banner id="23">
         <name>Blooming School Life</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -236,7 +478,7 @@
         <Weapon name="Sakura Mace" rarity="4"/>
     </Banner>
 
-    <Banner id="11">
+    <Banner id="24">
         <name>Princess from the Virtual World</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -258,7 +500,7 @@
         <Weapon name="Red Wolf Buster" rarity="4"/>
     </Banner>
 
-    <Banner id="12">
+    <Banner id="25">
         <name>To Your Heart - Maid in Balmy Breeze</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -280,7 +522,7 @@
         <Weapon name="Smash Brush" rarity="4"/>
     </Banner>
 
-    <Banner id="13">
+    <Banner id="26">
         <name>Alicization - Integration Beginning</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -290,7 +532,7 @@
         <Character prefix="Blue Silver Knight" char="Eugeo" rarity="4"/>
     </Banner>
 
-    <Banner id="14">
+    <Banner id="27">
         <name>Beautiful Girls Playing in the Water</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -306,7 +548,7 @@
         <Weapon name="Splash Dagger" rarity="4"/>
     </Banner>
 
-    <Banner id="15">
+    <Banner id="28">
         <name>Poetry of Constellation</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -324,7 +566,7 @@
         <Weapon name="Aries Gradius" rarity="4"/>
     </Banner>
 
-    <Banner id="16">
+    <Banner id="29">
         <name>Eternal Love - Dreaming Brides</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -345,7 +587,7 @@
         <Weapon name="Promised Heart" rarity="4"/>
     </Banner>
 
-    <Banner id="17">
+    <Banner id="30">
         <name>Recalling Moments</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -356,7 +598,7 @@
         <Character prefix="Faroff Fencer" char="Suguha" rarity="4"/>
     </Banner>
 
-    <Banner id="18">
+    <Banner id="31">
         <name>Workers' Cosplay Paradise</name>
         <type>0</type>
         <wepType>0</wepType>
@@ -378,7 +620,7 @@
         <Weapon name="Parfait Club" rarity="4"/>
     </Banner>
 
-    <Banner id="19">
+    <Banner id="32">
         <name>Raindrops Concerto</name>
         <type>1</type>
         <wepType>0</wepType>
@@ -394,7 +636,7 @@
         <Weapon name="Paraguas Sword" rarity="4"/>
     </Banner>
 
-    <Banner id="20">
+    <Banner id="33">
         <name>Tropical Dream</name>
         <type>1</type>
         <wepType>0</wepType>
@@ -414,7 +656,7 @@
         <Weapon name="Beach Stinger" rarity="4"/>
     </Banner>
 
-    <Banner id="21">
+    <Banner id="34">
         <name>Promised Night of the Stars</name>
         <type>1</type>
         <wepType>0</wepType>
@@ -430,7 +672,7 @@
         <Weapon name="Oathkeeper" rarity="4"/>
     </Banner>
 
-    <Banner id="22">
+    <Banner id="35">
         <name>Yukata Night</name>
         <type>2</type>
         <wepType>0</wepType>
@@ -450,7 +692,7 @@
         <Weapon name="Lespedeza Dewdrop" rarity="4"/>
     </Banner>
 
-    <Banner id="23">
+    <Banner id="36">
         <name>Char. Enhancement Vote Scout</name>
         <type>1</type>
         <wepType>0</wepType>
@@ -470,7 +712,7 @@
         <Weapon name="Angel Claymore +1" rarity="4"/>
     </Banner>
 
-    <Banner id="24">
+    <Banner id="37">
         <name>Beaming Summer Gals</name>
         <type>2</type>
         <wepType>0</wepType>
@@ -490,7 +732,7 @@
         <Weapon name="Island Spear" rarity="4"/>
     </Banner>
 
-    <Banner id="25">
+    <Banner id="38">
         <name>Summer Night Festa</name>
         <type>1</type>
         <wepType>0</wepType>
@@ -506,7 +748,7 @@
         <Weapon name="Divine Shiner" rarity="4"/>
     </Banner>
 
-    <Banner id="26">
+    <Banner id="39">
         <name>In the Stormy Sea - Jolly Roger</name>
         <type>2</type>
         <wepType>0</wepType>
@@ -526,7 +768,7 @@
         <Weapon name="Pirate Dagger" rarity="4"/>
     </Banner>
 
-    <Banner id="27">
+    <Banner id="40">
         <name>1st Anniversary Countdown Vote Scout</name>
         <type>1</type>
         <wepType>0</wepType>
@@ -546,7 +788,7 @@
         <Weapon name="Leo Hastam +1" rarity="4"/>
     </Banner>
 
-    <Banner id="28">
+    <Banner id="41">
         <name>Birthday Scout - Sinon 8.21</name>
         <type>1</type>
         <wepType>0</wepType>
@@ -561,7 +803,7 @@
         <Character prefix="Free Style Artist" char="Sinon" rarity="4"/>
     </Banner>
 
-    <Banner id="29">
+    <Banner id="42">
         <name>Proof of Trust X Bonds of Fate</name>
         <type>3</type>
         <wepType>0</wepType>
@@ -579,7 +821,7 @@
         <Weapon name="Gusisnautar" rarity="4"/>
     </Banner>
 
-    <Banner id="30">
+    <Banner id="43">
         <name>Alicization - The World Spins With Swords</name>
         <type>3</type>
         <wepType>0</wepType>
@@ -593,42 +835,7 @@
         <Weapon name="Eternal Ice" rarity="4"/>
     </Banner>
 
-    <Banner id="31">
-        <name>Event Limited - Free Characters</name>
-        <type>0</type>
-        <wepType>0</wepType>
-
-        <!--> CHARACTER LIST <-->
-        <Character prefix="Nightwear" char="Asuna" rarity="4"/>
-        <Character prefix="Captive Princess" char="Asuna" rarity="4"/>
-        <Character prefix="Fairy Dance" char="Kirito" rarity="4"/>
-        <Character prefix="AR Idol" char="Yuna" rarity="4"/>
-        <Character prefix="Queen of Chef" char="Rechka" rarity="4"/>
-        <Character prefix="Foxy Priestress" char="Silica" rarity="4"/>
-        <Character prefix="Hide-and-seek Girl" char="Sphica" rarity="4"/>
-        <Character prefix="Genius Creator" char="Yuuki" rarity="4"/>
-        <Character prefix="Black Wing" char="Kirito" rarity="4"/>
-        <Character prefix="Intrepid Detective" char="Eugeo" rarity="5"/>
-        <Character prefix="365 Days" char="Kirito" rarity="5"/>
-        <Character prefix="Rejoicing Witch" char="Leafa" rarity="4"/>
-        <Character prefix="Lone Wolf in the Wild" char="Kirito" rarity="5"/>
-    </Banner>
-
-    <Banner id="32">
-        <name>Ranking Rewards</name>
-        <type>0</type>
-        <wepType>0</wepType>
-
-        <!--> CHARACTER LIST <-->
-        <Character prefix="Up-and-coming Tiny Idol" char="Yui" rarity="4"/>
-        <Character prefix="Tropical dB" char="Yuna" rarity="4"/>
-        <Character prefix="True Heart" char="Yui" rarity="4"/>
-        <Character prefix="Holy Sword" char="Heathcliff" rarity="4"/>
-        <Character prefix="Wacky Happy Halloween" char="Lisbeth" rarity="4"/>
-        <Character prefix="Abounding Spring Water" char="Strea" rarity="4"/>
-    </Banner>
-
-    <Banner id="33">
+    <Banner id="44">
         <name>Memory of Friendship and Passing of Time</name>
         <type>3</type>
         <wepType>0</wepType>
@@ -646,67 +853,7 @@
         <Weapon name="Planetary Mace" rarity="4"/>
     </Banner>
 
-    <Banner id="34">
-        <name>Japan Version Wind Elemental Scout</name>
-        <type>0</type>
-        <wepType>0</wepType>
-
-        <!--> CHARACTER LIST <-->
-        <Character prefix="Absolute Wind" char="Yuuki" rarity="4"/>
-        <Character prefix="Gale Dancer" char="Asuna" rarity="4"/>
-        <Character prefix="Cait Sith Cyclone" char="Silica" rarity="4"/>
-        <Character prefix="Stormbringer" char="Leafa" rarity="4"/>
-        <Character prefix="Priestress of the Winds" char="Lisbeth" rarity="4"/>
-
-        <!--> WEAPON LIST <-->
-        <Weapon name="Storm Slicer" rarity="4"/>
-        <Weapon name="Ventus Cyclone Sword" rarity="4"/>
-        <Weapon name="Butterfly Wing" rarity="4"/>
-        <Weapon name="Wind of Grace" rarity="4"/>
-        <Weapon name="Hurricane Breaker" rarity="4"/>
-    </Banner>
-
-    <Banner id="35">
-        <name>Japan Version 2016 Halloween Scout</name>
-        <type>0</type>
-        <wepType>0</wepType>
-
-        <!--> CHARACTER LIST <-->
-        <Character prefix="Trick or Treat" char="Yuuki" rarity="4"/>
-        <Character prefix="Gremlins at Midnight" char="Asuna" rarity="4"/>
-        <Character prefix="Young Witch of the Old Castle" char="Silica" rarity="4"/>
-        <Character prefix="Bloodbond" char="Kirito" rarity="4"/>
-        <Character prefix="Vampire Empress" char="Lisbeth" rarity="4"/>
-        <Character prefix="Gremlin Attack" char="Sinon" rarity="4"/>
-
-        <!--> WEAPON LIST <-->
-        <Weapon name="Treat Hunter" rarity="4"/>
-        <Weapon name="Pumpkin Hammer" rarity="4"/>
-        <Weapon name="Black Cat" rarity="4"/>
-        <Weapon name="Solar Repulsor x Devil Silencer" rarity="4"/>
-        <Weapon name="Devil's Slave" rarity="4"/>
-        <Weapon name="Devil's Spread" rarity="4"/>
-    </Banner>
-
-    <Banner id="36">
-        <name>Japan Version Earth Elemental Scout</name>
-        <type>0</type>
-        <wepType>0</wepType>
-
-        <!--> CHARACTER LIST <-->
-        <Character prefix="Blessing of Eden" char="Yuuki" rarity="4"/>
-        <Character prefix="Protector of Eden" char="Leafa" rarity="4"/>
-        <Character prefix="Beautiful Blossom" char="Silica" rarity="4"/>
-        <Character prefix="Harvest Priestress" char="Lisbeth" rarity="4"/>
-
-        <!--> WEAPON LIST <-->
-        <Weapon name="Eden's Edge" rarity="4"/>
-        <Weapon name="Eden's Stave" rarity="4"/>
-        <Weapon name="Gaia Knife" rarity="4"/>
-        <Weapon name="Harvest" rarity="4"/>
-    </Banner>
-
-    <Banner id="37">
+    <Banner id="45">
         <name>Chivalric Men's Uproarious Banquet</name>
         <type>3</type>
         <wepType>0</wepType>
@@ -720,7 +867,7 @@
         <Weapon name="Great Number" rarity="4"/>
     </Banner>
 
-    <Banner id="38">
+    <Banner id="46">
         <name>Birthday Scout - Asuna 9.30</name>
         <type>4</type>
         <wepType>0</wepType>
@@ -742,7 +889,7 @@
         <Character prefix="Gorgeous Quartermaster" char="Asuna" rarity="4"/>
     </Banner>
 
-    <Banner id="39">
+    <Banner id="47">
         <name>Moonlight Halloween Parade</name>
         <type>5</type>
         <wepType>0</wepType>
@@ -760,7 +907,7 @@
         <Weapon name="Pumpkin Blade" rarity="4"/>
     </Banner>
 
-    <Banner id="40">
+    <Banner id="48">
         <name>Birthday Scout - Silica 10.4</name>
         <type>4</type>
         <wepType>0</wepType>
@@ -777,7 +924,7 @@
         <Character prefix="Sunflower Girl" char="Silica" rarity="4"/>
     </Banner>
 
-    <Banner id="41">
+    <Banner id="49">
         <name>Alicization Goes on the Air</name>
         <type>6</type>
         <wepType>0</wepType>
@@ -794,7 +941,7 @@
         <Character prefix="Fragrant Olive in June" char="Alice" rarity="4"/>
     </Banner>
 
-    <Banner id="42">
+    <Banner id="50">
         <name>Birthday Scout - Kirito 10.7</name>
         <type>4</type>
         <wepType>0</wepType>
@@ -806,7 +953,7 @@
         <Character prefix="Lofty Captain" char="Kirito" rarity="4"/>
     </Banner>
 
-    <Banner id="43">
+    <Banner id="51">
         <name>Happy Halloween Night</name>
         <type>5</type>
         <wepType>0</wepType>
@@ -824,7 +971,7 @@
         <Weapon name="Chat Noir" rarity="4"/>
     </Banner>
 
-    <Banner id="44">
+    <Banner id="52">
         <name>5 Star Upgrade Vote Scout</name>
         <type>7</type>
         <wepType>0</wepType>
@@ -842,7 +989,7 @@
         <Weapon name="Dual Hydrangea Sword +1" rarity="4"/>
     </Banner>
 
-    <Banner id="45">
+    <Banner id="53">
         <name>Baton of Friendship! - Sports Festival</name>
         <type>5</type>
         <wepType>0</wepType>
@@ -860,17 +1007,17 @@
         <Weapon name="Winner's Spear" rarity="4"/>
     </Banner>
 
-    <Banner id="46">
+    <Banner id="54">
         <name>Wedding Anniversary - Kirito and Asuna</name>
         <type>7</type>
         <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
-        <Character prefix="Promise at that Time_" char="Kirito" rarity="5"/>
+        <Character prefix="Promise at that Time (2)" char="Kirito" rarity="5"/>
         <Character prefix="Promise at that Time" char="Asuna" rarity="5"/>
     </Banner>
 
-    <Banner id="47">
+    <Banner id="55">
         <name>Steamy Beauty Bath Time</name>
         <type>5</type>
         <wepType>1</wepType>
