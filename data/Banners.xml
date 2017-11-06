@@ -1034,4 +1034,18 @@
         <Weapon name="Red Lacquer Sword" rarity="4"/>
         <Weapon name="Teal Blue Sword" rarity="4"/>
     </Banner>
+
+    <Banner id="56">
+        <name>The Two Bonded by Phantom Bullets</name>
+        <type>7</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Swordsman in the Wilderness" char="Kirito" rarity="5"/>
+        <Character prefix="Sniper in Love" char="Sinon" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Tsukikage" rarity="4"/>
+        <Weapon name="Magnificent Hecate" rarity="4"/>
+    </Banner>
 </banners>
