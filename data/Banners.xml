@@ -200,7 +200,7 @@
         <wepType>0</wepType>
 
         <!--> CHARACTER LIST <-->
-        <Character prefix="Nightwear" char="Leafa" rarity="4"/>
+        <Character prefix="Nightwear (1)" char="Leafa" rarity="4"/>
         <Character prefix="Nightwear (2)" char="Yuuki" rarity="4"/>
         <Character prefix="Nightwear (3)" char="Silica" rarity="4"/>
         <Character prefix="Nightwear (4)" char="Lisbeth" rarity="4"/>
