@@ -1066,6 +1066,23 @@
         <Weapon name="Burning Heart" rarity="4"/>
         <Weapon name="Jackpot Spada" rarity="4"/>
         <Weapon name="Destiny Rosso" rarity="4"/>
+    </Banner>
 
+    <Banner id="58">
+        <name>SAO Game Complete Memorial Vote Scout</name>
+        <type>7</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Celestial Dancer" char="Yuuki" rarity="5"/>
+        <Character prefix="Blossom Shower" char="Rain" rarity="5"/>
+        <Character prefix="Fragrant Olive in June" char="Alice" rarity="5"/>
+        <Character prefix="Heart Flash" char="Asuna" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Dual Galactic Lights +1" rarity="4"/>
+        <Weapon name="Dual Melodious Twins +1" rarity="4"/>
+        <Weapon name="June Blade +1" rarity="4"/>
+        <Weapon name="Courage +1" rarity="4"/>
     </Banner>
 </banners>
