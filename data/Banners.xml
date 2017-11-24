@@ -1085,4 +1085,22 @@
         <Weapon name="June Blade +1" rarity="4"/>
         <Weapon name="Courage +1" rarity="4"/>
     </Banner>
+
+    <Banner id="59">
+        <name>Mace Enhancement Memorial Upgrade Scout</name>
+        <type>7</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Bouquet Toss" char="Yuuki" rarity="5"/>
+        <Character prefix="Efficient Smith" char="Lisbeth" rarity="5"/>
+        <Character prefix="My Little Lover" char="Silica" rarity="5"/>
+        <Character prefix="Born in Sakura Season" char="Yui" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Promised Heart +1" rarity="4"/>
+        <Weapon name="Elater +1" rarity="4"/>
+        <Weapon name="Perfect Lover +1" rarity="4"/>
+        <Weapon name="Sakura Mace +1" rarity="4"/>
+    </Banner>
 </banners>
