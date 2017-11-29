@@ -1105,4 +1105,22 @@
         <Weapon name="Perfect Lover +1" rarity="4"/>
         <Weapon name="Sakura Mace +1" rarity="4"/>
     </Banner>
+
+    <Banner id="60">
+        <name>White Christmas - Footsteps in the Snow</name>
+        <type>3</type>
+        <wepType>1</wepType>
+
+        <!--> CHARACTER LIST <-->
+        <Character prefix="Gift from Santa" char="Asuna" rarity="5"/>
+        <Character prefix="Visitor in Snow" char="Leafa" rarity="5"/>
+        <Character prefix="Excitement on Christmas Eve" char="Alice" rarity="5"/>
+        <Character prefix="Hasty Reindeer" char="Eugeo" rarity="5"/>
+
+        <!--> WEAPON LIST <-->
+        <Weapon name="Present for You" rarity="4"/>
+        <Weapon name="Wreath on Chimney" rarity="4"/>
+        <Weapon name="Twinkle Christmas Eve" rarity="4"/>
+        <Weapon name="Reindeer Horn" rarity="4"/>
+    </Banner>
 </banners>
